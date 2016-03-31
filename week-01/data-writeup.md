@@ -8,7 +8,7 @@ The website seems quite broad in terms of what it offers, so it might be a littl
 ### [Open Data Network](http://www.opendatanetwork.com/)
 I instantly dislike its list-like feature. It makes it difficult to discern any organization in the data. 
 
-![Open Data Network]('open-data.png')
+![Open Data Network](open-data.png)
 
 It seems a lot like looking for a value in a table of hundred rows - you know it is there somewhere, but you don't know how to find it. It also has weird names like [Do Hispanics really fare better?](http://www.opendatanetwork.com/dataset/bchi.bigcitieshealth.org/8mzj-f3pz) for a dataset. 
 
