@@ -16,6 +16,8 @@ def get_index(url):
     with open(index_name, 'w') as w:
         w.write(txt)
 
+get_index(index_url)
+
 # Download all pages
 with open(index_name, 'r') as f:
     txt = f.read()
