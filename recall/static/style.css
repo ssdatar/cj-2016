@@ -1,0 +1,23 @@
+body{
+  width: 85%;
+  margin: auto;
+  font-family: "Helvetica Neue";
+  font-color: #444;
+  /*background-color: #444;*/
+}
+
+img {
+	width: 100px;
+	height: 100px;
+}
+
+table {
+	border: 1px solid #ddd;
+	border-collapse: collapse;
+}
+
+td {
+	padding: 1em;
+	border: 1px solid #ddd;
+	line-height: 1.6em;
+}
