@@ -6,7 +6,7 @@ import datetime as dt
 from matplotlib.dates import date2num
 from matplotlib.dates import MONDAY, MonthLocator, WeekdayLocator, DateFormatter
 
-files = glob(join('../matplotlibsampler', 'data', 'stocks', '*.csv'))
+files = glob(join('matplotlibsampler', 'data', 'stocks', '*.csv'))
 
 master = {}
 
