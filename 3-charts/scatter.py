@@ -17,5 +17,7 @@ ax.set_ylabel('Favorites')
 ax.set_ylim(ymin=0)
 ax.set_xlim(xmin=0)
 
+fig.suptitle("Congress members' tweets vs favorites")
+
 plt.show()
 plt.savefig('scatter.png')
